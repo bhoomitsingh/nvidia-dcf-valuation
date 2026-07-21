@@ -135,7 +135,7 @@ This project demonstrates the complete valuation process for a publicly listed t
 
 ## Dashboard
 
-![Dashboard](images/Screenshot (859).png)
+![Dashboard](images/Screenshot(859).png)
 
 ## DCF Valuation
 
