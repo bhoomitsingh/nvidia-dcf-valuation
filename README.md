@@ -133,9 +133,28 @@ This project demonstrates the complete valuation process for a publicly listed t
 
 ---
 
+## Dashboard
+
+![Dashboard](images/dashboard.png)
+
+## DCF Valuation
+
+![DCF](images/dcf.png)
+
+## Forecast
+
+![Forecast](images/forecast.png)
+
+## Sensitivity Analysis
+
+![Sensitivity](images/sensitivity.png)
+
+---
+
 ## Contact
 
 **Bhoomit Singh**
 
 B.Com (Hons)
 Shri Ram College of Commerce (SRCC)
+
